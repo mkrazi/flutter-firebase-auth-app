@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "200540544963",
+    "project_id": "musify-3fd88",
+    "storage_bucket": "musify-3fd88.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200540544963:android:ab9ca7ffe5595627ae2776",
+        "android_client_info": {
+          "package_name": "com.example.myapp_"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0UOczsWCutwu7JE5yUVGdH8uhf09N6pc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
