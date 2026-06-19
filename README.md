@@ -1,17 +1,48 @@
-# myapp_
+# Flutter Firebase Auth App
 
-A new Flutter project.
+A Flutter application integrated with Firebase Authentication, featuring a modern authentication flow and Lottie animations.
+
+## Features
+
+* User Registration
+* User Login
+* Firebase Authentication
+* Lottie Animations
+* Responsive UI Design
+* Cross-platform Flutter Support
+
+## Tech Stack
+
+* Flutter
+* Dart
+* Firebase Authentication
+* Lottie
+
+## Project Status
+
+This project is actively being developed. New features and improvements will be added over time as part of my Flutter learning journey.
+
+## Future Enhancements
+
+* Password Reset
+* User Profile Management
+* Cloud Firestore Integration
+* Google Sign-In
+* Dark Mode
+* Improved UI/UX
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+```bash
+git clone https://github.com/mkrazi/flutter-firebase-auth-app.git
+cd flutter-firebase-auth-app
+flutter pub get
+flutter run
+```
 
-A few resources to get you started if this is your first Flutter project:
+## Author
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+**Muhammed Razi MK**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+B.Tech Computer Science Student
+Government College of Engineering Kannur
