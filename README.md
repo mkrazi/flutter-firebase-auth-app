@@ -42,7 +42,7 @@ flutter run
 
 ## Author
 
-**Muhammed Razi MK**
+**Muhammed Razi**
 
 B.Tech Computer Science Student
 Government College of Engineering Kannur
